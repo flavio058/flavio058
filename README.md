@@ -2,10 +2,10 @@
 
 <h3>Sobre mim:</h3>
 <ul>
-    <li>Professor de Programação 💡</li>
+    <li>Aluno de Programação 💡</li>
     <li>Programador Front End 💻</li>
-    <li>Apaixonado por Arte e Design 🖌</li>
-    <li>Formado em Banco de Dados 🗄</li>
+    <li>Apaixonado por Academia e Design 🖌</li>
+   
 </ul>
     
 ##
